@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## To use this app on a simulator:
+
+```
+git clone https://github.com/bdot100/name_app
+
+cd name_app
+
+```
+
+

@@ -23,5 +23,8 @@ git clone https://github.com/bdot100/name_app
 cd name_app
 
 ```
-
+### After opening or connecting your simulator run:
+```
+flutter run
+```
 
